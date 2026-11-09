@@ -80,3 +80,4 @@ This project demonstrates the use of temperature sensors, analog signal processi
 - TMP36 Temperature Sensor
 - Tinkercad Circuits
 - Arduino C/C++ Programming
+https://lnkd.in/p/g679fAuR
